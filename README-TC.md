@@ -1,5 +1,5 @@
 # 一简工具箱 | A One Click
-简体中文 | [繁體中文]()
+[简体中文](https://github.com/wanxiaoT/A-One-Click) | 繁體中文
 
 ### 当前状态：更新中
 ### By wanxiaoT
